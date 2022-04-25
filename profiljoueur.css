@@ -1,0 +1,27 @@
+img{
+	width: 100px;
+	height: 100px;
+}
+h3{
+	color: darkblack;
+	border: solid;
+	margin: inherit;
+	peeding: unsed;
+
+}
+table,
+	td{
+	border: 1px solid #333;
+	background-color: #728273;
+	}
+thead,
+	tfoot{
+		background-color: #728273;
+
+	}
+	table,
+		td{
+		border-collapse: 3px collapse #333;
+		display: inline-block;
+		} 
+	< div class = "tata" 
